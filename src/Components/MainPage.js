@@ -190,7 +190,7 @@ export class MainPage extends Component {
                           <div style={{float:'right'}}>
                               <button style={{height:'30px',width:'auto',backgroundColor:'#483D8B',color:'white',border:'none',fontSize:'16px',fontWeight:'600',padding:'5px 10px',display:'flex',alignItems:'center',justifyContent:'center'}}
                                         onClick={this.activity}>
-                                    Your Activities
+                                    Add Activity
                               </button>
                               <Modal
                                 title="Add Your Activities"
